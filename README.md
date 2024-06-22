@@ -6,9 +6,9 @@
 - A2_CNN_Implementation文件夹中是CNN的实现代码，
 - A3_Training_Word_Embedding文件夹中是Word Embedding的实现代码，
 - A4_LSTM_Implementation文件夹中是LSTM的实现代码，
-- A5_GRU_Implementation文件夹中是GRU的实现代码， 
+- A5_GRU_Implementation文件夹中是GRU的实现代码。
 
-其中，
+其中：
 
 - 文件名包含Numpy的文件是使用Numpy的实现代码
 
