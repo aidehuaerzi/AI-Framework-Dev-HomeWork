@@ -14,7 +14,7 @@
 
 - 文件名包含Pytorch的文件是使用pytorch的实现代码。 
 
-所有模型训练使用的数据集统一放在dataset目录下。其中：
+所有模型训练使用的数据集统一放在dataset目录下，其中：
 -  训练LSTM和GRU采用的是“英-法”数据集，数据集下载链接：https://www.manythings.org/anki/。
 -  训练Word Embedding使用的数据集是Text 8，数据集下载链接：https://www.kaggle.com/datasets/gupta24789/text8-word-embedding
 
