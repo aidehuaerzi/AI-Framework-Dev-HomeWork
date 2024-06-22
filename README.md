@@ -18,6 +18,8 @@
 -  训练LSTM和GRU采用的是“英-法”数据集，数据集下载链接：https://www.manythings.org/anki/。
 -  训练Word Embedding使用的数据集是Text 8，数据集下载链接：https://www.kaggle.com/datasets/gupta24789/text8-word-embedding
 
+**由于上传时文件大小有限制，所以部分数据集未能上传。**
+
 #### 另注
 
 由于设备性能和资源的限制，部分作业的实现可能没有达到理想的效果，希望老师能够理解。
