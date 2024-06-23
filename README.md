@@ -10,9 +10,9 @@
 
 其中：
 
-- 文件名包含Numpy的文件是使用Numpy的实现代码
+- 文件名包含“Numpy”的文件是使用Numpy的实现代码。
 
-- 文件名包含Pytorch的文件是使用pytorch的实现代码。 
+- 文件名包含“Pytorch”的文件是使用pytorch的实现代码。 
 
 所有模型训练使用的数据集统一放在dataset目录下，其中：
 -  训练LSTM和GRU采用的是“英-法”数据集，数据集下载链接：https://www.manythings.org/anki/。
